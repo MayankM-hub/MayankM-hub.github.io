@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on portfolio</title>
+    <link>http://mayank.org/portfolio/</link>
+    <description>Recent content in Portfolios on portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate><atom:link href="http://mayank.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mutual Fund Analysis</title>
+      <link>http://mayank.org/portfolio/recipe-app-ux-study/</link>
+      <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
+      
+      <guid>http://mayank.org/portfolio/recipe-app-ux-study/</guid>
+      <description>This is a end to end project, Scarpping the data from official website of Mutual Fund house, cleaning the data, applying automation , because it is impossible to clean each sheets (300000 excel sheets approx) of one fund house. I designed a toolkit containing different types of templates to extract and clean the data, since the data is too big, SQL database is used to store the raw data.
+client interest was to know how much money, each mutual fund is investing in a stock market.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>http://mayank.org/portfolio/ux-case-study-for-agriculture-app/</link>
+      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      
+      <guid>http://mayank.org/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <description>Sentiment Analysis is a type of Natural Language processing problem that determines the sentiment or emotion of a piece of text, an algorithm is designed to classify whether a products review was negative , positive , or netural. There are many different applications of NLP. These includes language translation, text generation and spell/grammer check. For this project I build a Recursive Neural network to classify the sentiments of tweets about the product.</description>
+    </item>
+    
+    <item>
+      <title>Text Classification</title>
+      <link>http://mayank.org/portfolio/event-app-case-study/</link>
+      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
+      
+      <guid>http://mayank.org/portfolio/event-app-case-study/</guid>
+      <description>Using Bayes Theorem to built a high accuracy Text Classification which claassify over 25000, newspaper article into 20 categories.</description>
+    </item>
+    
+    <item>
+      <title>Instagram Bot</title>
+      <link>http://mayank.org/portfolio/case-study-one/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>http://mayank.org/portfolio/case-study-one/</guid>
+      <description>The project is based on a scenario that my client has opened a new food blogging handle on Instagram and he wants to get famous. He wants to follow a lot of people so that he can get noticed quickly but it is a tedious task so, using a selenium and beautiful soup I built a bot which can search send them follow/unfollow requet, like/unlike all the posts on the page, scrap the list of followers, check their instagram reels and stories.</description>
+    </item>
+    
+  </channel>
+</rss>
